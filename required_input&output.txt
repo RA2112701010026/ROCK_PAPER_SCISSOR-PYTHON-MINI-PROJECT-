@@ -1,0 +1,20 @@
+user input (rock,paper,scissor)
+computer choice (selects random we use random module in python)
+results print 
+this is our work flow 
+
+cases 
+A- rock
+rock-rock = tie
+rock-paper = paper win
+rock -scissor = rock win
+
+B-paper 
+paper-paper = tie 
+paper -rock = paper win
+paper -scissor =scissor win
+
+C-scissor 
+scissor-scissor= tie
+scissor -rock = rock win 
+scissor - paper= scissor win
